@@ -72,13 +72,6 @@ Core responsive UI for a flagship HRMS platform used across employee and admin w
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangeshpagare&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangeshpagare&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 <br/>
 
 <p align="center">📫 <b>mangeshpagare011@gmail.com</b> &nbsp;|&nbsp; 📍 Pune, Maharashtra, India</p>
